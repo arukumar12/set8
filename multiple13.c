@@ -2,7 +2,7 @@
 #include<conio.h>
 main()
 {
-  int num;
+  int num,n;
   printf("enter a number");
   scanf("%d",&num);
   while(num!=0)
